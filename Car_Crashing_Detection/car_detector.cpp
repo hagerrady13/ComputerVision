@@ -1,3 +1,8 @@
+/*
+Authored by: Hager Radi
+15 Dec. 2015
+Car detection in videos
+*/
 #include <QCoreApplication>
 #include <cv.h>
 #include "opencv2/imgproc/imgproc.hpp"
