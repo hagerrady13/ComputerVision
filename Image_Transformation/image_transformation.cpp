@@ -1,5 +1,7 @@
-// Hagar Rady Mahmoud, 900123208
-// Computer Vision Assignment 1
+/*
+Authored by: Hager Radi
+15 Oct. 2015
+*/
 #include <QCoreApplication>
 #include <cv.h>
 #include <opencv2/core/core.hpp>
