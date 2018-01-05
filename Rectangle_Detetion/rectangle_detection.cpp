@@ -1,3 +1,7 @@
+/*
+Authored by: Hager Radi
+28 Nov. 2015
+*/
 #include <QCoreApplication>
 #include <cv.h>
 #include "opencv2/imgproc/imgproc.hpp"
